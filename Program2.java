@@ -1,6 +1,5 @@
 public class Program2 {
     public static void main(String[] args) {
-        // Tipe data boolean
         boolean b = true;
         System.out.println(b); 
 
